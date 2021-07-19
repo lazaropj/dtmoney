@@ -26,7 +26,7 @@ createServer({
           type: 'withdraw',
           category: 'Casa',
           amount: 1123,
-          createdAt: new Date('2021-07-15 09:00:00')
+          createdAt:new Date('2021-07-15 09:00:00')
         },
       ],
     })
